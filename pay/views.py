@@ -5,4 +5,5 @@ def test(request):
     pass
 
 def test1(request):
+    print("많은 작업")
     pass
